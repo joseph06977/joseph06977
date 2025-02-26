@@ -4,10 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 computer programming
 --------------------
 
-I am a computer programmer who loves coding
+I am a computer programming sudent who is intrested in learning various computer languages
+The languages i am studying are the javascript and python
 
 * 🌍  I'm based in Nairobi
-* ✉️  You can contact me at [josepholuoch069@gmail.com](mailto:josepholuoch069@gmail.com)
+* ✉️  You can contact me at [josepholuoch069@gmail.com](mailto:josepholuoch069@gmail.com) / 0112064311
 * 🧠  I'm learning computer programming
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I know how to code
